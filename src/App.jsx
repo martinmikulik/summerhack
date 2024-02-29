@@ -1,13 +1,10 @@
 import './App.css'
-import MiPrimerComponente from './miPrimerComponente'
+import MiPrimerComponente from './MiPrimerComponente'
 
 function App() {
 
-
   return (
-    <>
-  
-    </>
+   <MiPrimerComponente />
   );
 }
 
